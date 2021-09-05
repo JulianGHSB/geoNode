@@ -9,6 +9,8 @@ a planned React Native Android App.
 
 ## Installation and first start
 
+You need to be on the root folder level of the project.
+
 First of all you will need Node.js for the server.
 Go to https://nodejs.org and follow the installation instructions.
 
